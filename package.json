@@ -1,0 +1,22 @@
+{
+  "name": "en",
+  "version": "1.0.0",
+  "description": "Tiny environment helper",
+  "main": "env.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/williamwicks/env.git"
+  },
+  "keywords": [
+    "env",
+    "environment"
+  ],
+  "author": "William Wicks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/williamwicks/env/issues"
+  }
+}
